@@ -1,0 +1,12 @@
+[submodule "push_swap_exercises"]
+	path = push_swap_exercises
+	url = git@github.com:emre32emre/push_swap_exercises.git
+[submodule "pipex_exercise"]
+	path = pipex_exercise
+	url = git@github.com:emre32emre/pipex_exercise.git
+[submodule "mlx_2dMatris"]
+	path = mlx_2dMatris
+	url = git@github.com:emre32emre/mlx_2dMatris.git
+[submodule "libmatrix"]
+	path = libmatrix
+	url = git@github.com:emre32emre/libmatrix.git
